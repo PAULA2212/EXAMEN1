@@ -1,0 +1,1 @@
+/* A traves de una funcion constructura de prototipos crea una cuenta bancaria. atributos: nombre, dni, edad, y saldo. Con dos metodos, ingresar y retirar de la cuenta */
